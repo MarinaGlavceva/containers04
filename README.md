@@ -80,9 +80,7 @@ service apache2 start
 - **`service apache2 start`** – Запускает веб-сервер Apache.
 
 **Вывод в консоли:**
-```
- * Starting Apache httpd web server apache2
-```
+![Image](https://github.com/user-attachments/assets/f5d238ff-0035-421d-8c62-5cf5e8111ff6)
 
 ### 3. Проверка работы Apache
 Я открыла браузер и перешла по адресу `http://localhost:8000`. В браузере отобразилась стандартная стартовая страница Apache.
