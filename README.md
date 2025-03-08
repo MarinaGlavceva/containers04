@@ -104,6 +104,7 @@ echo '<h1>Hello, World!</h1>' > /var/www/html/index.html
 2. **`echo '<h1>Hello, World!</h1>' > /var/www/html/index.html`** – Создает страницу с текстом.
 
 Обновила страницу в браузере и увидела `Hello, World!`.
+![image](https://github.com/user-attachments/assets/50234c3b-26f6-419c-b6b5-e861e713657e)
 
 ### 5. Просмотр конфигурации Apache
 Перешла в каталог конфигурации:
