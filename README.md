@@ -46,7 +46,8 @@ docker run -ti -p 8000:80 --name containers04 ubuntu bash
 - **`bash`** – Запуск командной оболочки Bash внутри контейнера.
 
 **Вывод в консоли:**
-![Описание](https://github.com/MarinaGlavceva/containers04/issues/1#issue-2904739545)
+![Описание](![image](https://github.com/user-attachments/assets/a7f0447f-c410-4dd3-a7ad-b1e73784b258)
+)
 
 
 ### 2. Установка Apache в контейнере
