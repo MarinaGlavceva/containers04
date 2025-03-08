@@ -70,7 +70,7 @@ apt install apache2 -y
      - Автоматически устанавливает его в систему.  
      - Флаг `-y` позволяет установить пакет без запроса подтверждения.  
    - **Вывод в консоли:** Показывает процесс установки (`Reading package lists... Done`, `Setting up apache2 ...`).
-
+![Image](https://github.com/user-attachments/assets/2937b079-8c20-414c-a4a1-bfd8d23069c3)
 
 Запустила Apache:
 ```sh
