@@ -121,6 +121,7 @@ cat 000-default.conf
 2. **`cat 000-default.conf`** – Выводит конфигурацию виртуального хоста.
 
 **Вывод в консоли:**
+![Image](https://github.com/user-attachments/assets/c23eb73e-aae9-44e5-bc46-f3364e4c86f8)
 
 #### Разбор содержимого `000-default.conf`:
 Этот файл содержит настройки виртуального хоста Apache. В нем я увидел:
