@@ -143,16 +143,14 @@ exit
 docker ps -a
 ```
 
+**Вывод в консоли:**
+![Image](https://github.com/user-attachments/assets/afd8ef8a-a1e1-4400-aea9-6b561c06e83c)
+
 Удалила контейнер:
 ```sh
 docker rm containers04
 ```
 
-**Вывод в консоли:**
-```
-CONTAINER ID   IMAGE      COMMAND   CREATED   STATUS   NAMES
-b5bb22a525ca   ubuntu     "bash"    2 mins ago   Exited   containers04
-```
 
 ## Выводы
 В ходе выполнения лабораторной работы я:
